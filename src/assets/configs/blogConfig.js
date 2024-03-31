@@ -5,8 +5,20 @@ import { Si1Password } from "react-icons/si";
 import { SiHurriyetemlak } from "react-icons/si";
 
 const blogConfig = [
-
-   
+    {
+        id: "blog-3",
+        title: "IBM Data Analyst",
+        links: [
+            {
+                name: "link",
+                url: "https://www.coursera.org/account/accomplishments/professional-cert/CTWG7TM9LZUV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof",
+                icon: <SiHurriyetemlak/>
+            }
+        ],
+        image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fibm%2Fbadge%2Fdata-analyst-professional-certificate&psig=AOvVaw3WCbrbOBQ0aqmNveOxxckb&ust=1711972572874000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCXqvy4noUDFQAAAAAdAAAAABAE",
+        description: "",
+        target: "_blank"
+    },
     {
         id: "blog-2",
         title: "Tableau Training for Data Science",
