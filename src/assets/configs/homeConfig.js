@@ -71,7 +71,7 @@ const homeConfig = {
             company: "Meirtec Solutions",
             description: 
                 "Build the construction of ETLs, data lakes, data warehouses, machine learning models ,forecast models, and Power BI dashboards.",
-            date: "Jan 2020 - Jun 2020",
+            date: "Jan 2020 - Apr 2021",
             icon: <GiCommercialAirplane/>,
             tags: ["python", "sql", "tableau", "excel"]
         }
