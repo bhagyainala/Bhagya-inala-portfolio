@@ -15,7 +15,7 @@ const blogConfig = [
                 icon: <SiHurriyetemlak/>
             }
         ],
-        image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fibm%2Fbadge%2Fdata-analyst-professional-certificate&psig=AOvVaw3WCbrbOBQ0aqmNveOxxckb&ust=1711972572874000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCXqvy4noUDFQAAAAAdAAAAABAE",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS62jU-VbTqWfFgXDLONKdh-KB_Dy8ukzYRg9B2xTnDQ&s",
         description: "",
         target: "_blank"
     },
